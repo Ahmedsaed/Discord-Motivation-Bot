@@ -5,3 +5,5 @@
 ### Features: 
 
 - Type `!motivate`: Send a motivational quote
+
+### Created using [AutoCode](https://autocode.com/)

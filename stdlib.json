@@ -1,0 +1,13 @@
+{
+  "name": "ahmedsaed/motivation-bot",
+  "timeout": 10000,
+  "connector": false,
+  "events": {
+    "functions/events/discord/message/create/prefix/motivate.js": {
+      "name": "discord.message.create.prefix",
+      "subtype": {
+        "prefix": "!motivate"
+      }
+    }
+  }
+}
